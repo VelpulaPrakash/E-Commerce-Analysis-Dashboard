@@ -79,10 +79,15 @@ This project demonstrates the use of Microsoft Excel for exploratory sales analy
 
 ---
 **Project Category:** Data Analytics | Excel Dashboard | Sales Analysis
+DASHBOARD:
 <img width="1452" height="662" alt="Screenshot 2026-10-20 212629" src="https://github.com/user-attachments/assets/657999d5-0852-4eb0-87ec-b89c049e0c04" />
+DATASET IN TABLE FORMAT:
 <img width="1312" height="642" alt="Screenshot 2026-10-20 213938" src="https://github.com/user-attachments/assets/02de85e2-3483-499a-8e42-273c30636aa1" />
+QUESTIONS AND KPIS:
 <img width="540" height="535" alt="Screenshot 2026-10-20 213914" src="https://github.com/user-attachments/assets/b541c794-3357-478e-bd51-e6b7f4afd94d" />
-<img width="1312" height="642" alt="Screenshot 2026-10-20 213938" src="https://github.com/user-attachments/assets/b7c024e0-d84a-4281-997d-7fb06aa76188" />
+PIVOTS:
+<img width="1312" height="642" alt="Screenshot 2026-10-20 213938" src="https://github.com/user-attachments/assets/e5c23682-db8b-4968-b4ac-d458d908c612" />
+
 
 
 
